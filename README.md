@@ -1,4 +1,4 @@
-#American Sign Language Recognition
+# American Sign Language Recognition
 
 This project is based on deep learning. This project can recognize 40 different signs provided through using user's webcam.
 
