@@ -1,3 +1,5 @@
+#American Sign Language Recognition
+
 This project is based on deep learning. This project can recognize 40 different signs provided through using user's webcam.
 
 Data is available on kaggle :- https://www.kaggle.com/rahulmakwana/american-sign-language-recognition
